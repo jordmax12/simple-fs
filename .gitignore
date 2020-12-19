@@ -93,3 +93,4 @@ typings/
 .sonar/
 .scannerwork/
 aws/local/.neo4j
+node_modules
